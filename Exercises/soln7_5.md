@@ -1,4 +1,4 @@
-# Exercise 7.5 - Solution
+# Упражнение 7.5 - Solution
 
 Nothing here.  Just follow the exercise.
 

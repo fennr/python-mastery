@@ -1,4 +1,4 @@
-# Exercise 8.3 - Solution
+# Упражнение 8.3 - Solution
 
 ```python
 # coticker.py

@@ -1,4 +1,4 @@
-# Exercise 8.5 - Solution
+# Упражнение 8.5 - Solution
 
 ## (b) Generators as Tasks Serving Network Connections
 

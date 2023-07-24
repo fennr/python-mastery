@@ -1,4 +1,4 @@
-# Exercise 9.3 - Solution
+# Упражнение 9.3 - Solution
 
 ## (a) Controlling Exported Symbols
 

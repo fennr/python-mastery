@@ -1,4 +1,4 @@
-# Exercise 3.4 - Solution
+# Упражнение 3.4 - Solution
 
 ## (a) Private attributes
 

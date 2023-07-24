@@ -1,4 +1,4 @@
-# Exercise 3.6 - Solution
+# Упражнение 3.6 - Solution
 
 ## (a) Better output for printing objects
 

@@ -1,4 +1,4 @@
-# Exercise 5.2 - Solution
+# Упражнение 5.2 - Solution
 
 None. Just work through the exercise.
 

@@ -1,4 +1,4 @@
-# Exercise 2.4 - Solution
+# Упражнение 2.4 - Solution
 
 ```python
 # mutint.py

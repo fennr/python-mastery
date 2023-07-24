@@ -1,4 +1,4 @@
-# Exercise 1.2 - Solution
+# Упражнение 1.2 - Solution
 
 Solution code is shown in the exercise.
 

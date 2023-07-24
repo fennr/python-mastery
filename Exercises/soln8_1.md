@@ -1,4 +1,4 @@
-# Exercise 8.1 - Solution
+# Упражнение 8.1 - Solution
 
 ## (b) Adding Iteration to Objects
 

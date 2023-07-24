@@ -1,4 +1,4 @@
-# Exercise 3.2 - Solution
+# Упражнение 3.2 - Solution
 
 (c) Table Formatter
 

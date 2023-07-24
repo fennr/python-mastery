@@ -1,4 +1,4 @@
-# Exercise 4.4 - Solution
+# Упражнение 4.4 - Solution
 
 Code is given in the exercise.
 

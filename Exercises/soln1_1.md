@@ -1,4 +1,4 @@
-# Exercise 1.1 - Solution
+# Упражнение 1.1 - Solution
 
 Nothing here.  Just follow along with the exercise.
 

@@ -1,4 +1,4 @@
-# Exercise 4.2 - Solution
+# Упражнение 4.2 - Solution
 
 Here is the validator code in its entirety:
 

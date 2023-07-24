@@ -1,4 +1,4 @@
-# Exercise 3.1 - Solution
+# Упражнение 3.1 - Solution
 
 ```python
 # stock.py

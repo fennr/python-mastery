@@ -1,4 +1,4 @@
-# Exercise 2.6 - Solution
+# Упражнение 2.6 - Solution
 
 ```python
 # reader.py

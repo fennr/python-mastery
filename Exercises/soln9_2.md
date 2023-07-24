@@ -1,4 +1,4 @@
-# Exercise 9.2 - Solution
+# Упражнение 9.2 - Solution
 
 ## (a) Making a package
 

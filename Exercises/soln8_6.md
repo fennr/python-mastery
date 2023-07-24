@@ -1,4 +1,4 @@
-# Exercise 8.6 - Solution
+# Упражнение 8.6 - Solution
 
 ## (a) Receiving Messages
 

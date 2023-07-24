@@ -1,4 +1,4 @@
-# Exercise 5.6 - Solution
+# Упражнение 5.6 - Solution
 
 ## (b) Unit testing
 

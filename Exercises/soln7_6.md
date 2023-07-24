@@ -1,4 +1,4 @@
-# Exercise 7.6 - Solution
+# Упражнение 7.6 - Solution
 
 ```python
 # structure.py

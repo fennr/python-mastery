@@ -1,4 +1,4 @@
-# Exercise 5.5 - Solution
+# Упражнение 5.5 - Solution
 
 ```python
 # reader.py

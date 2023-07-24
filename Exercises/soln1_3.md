@@ -1,4 +1,4 @@
-# Exercise 1.3 - Solution
+# Упражнение 1.3 - Solution
 
 ```python
 # pcost.py

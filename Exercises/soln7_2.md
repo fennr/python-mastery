@@ -1,4 +1,4 @@
-# Exercise 7.2 - Solution
+# Упражнение 7.2 - Solution
 
 ## (a) Copying Metadata
 

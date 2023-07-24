@@ -1,4 +1,4 @@
-# Exercise 1.6 - Solution
+# Упражнение 1.6 - Solution
 
 ## (b) Main Module
 

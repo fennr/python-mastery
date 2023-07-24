@@ -1,4 +1,4 @@
-# Exercise 6.1 - Solution
+# Упражнение 6.1 - Solution
 
 ## (a) Simplified Structures
 

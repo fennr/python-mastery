@@ -1,4 +1,4 @@
-# Exercise 5.1 - Solution
+# Упражнение 5.1 - Solution
 
 This is a partial solution that does not include type-hints. 
 

@@ -1,4 +1,4 @@
-# Exercise 5.4 - Solution
+# Упражнение 5.4 - Solution
 
 ```python
 # typedproperty.py

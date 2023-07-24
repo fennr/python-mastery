@@ -1,4 +1,4 @@
-# Exercise 3.5 - Solution
+# Упражнение 3.5 - Solution
 
 ```python
 # tableformat.py

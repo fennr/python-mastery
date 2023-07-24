@@ -1,4 +1,4 @@
-# Exercise 5.3 - Solution
+# Упражнение 5.3 - Solution
 
 ## (a) Higher order functions
 

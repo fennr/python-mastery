@@ -1,4 +1,4 @@
-# Exercise 7.3 - Solution
+# Упражнение 7.3 - Solution
 
 Here's a full version of the `structure.py` file.   
 

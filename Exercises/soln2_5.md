@@ -1,4 +1,4 @@
-# Exercise 2.5 - Solution
+# Упражнение 2.5 - Solution
 
 Here is a version of `readrides.py` with changes for parts (c) and (d).
 

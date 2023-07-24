@@ -1,4 +1,4 @@
-# Exercise 1.4 - Solution
+# Упражнение 1.4 - Solution
 
 ## (a) Defining a function
 

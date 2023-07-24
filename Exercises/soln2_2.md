@@ -1,4 +1,4 @@
-# Exercise 2.2 - Solution
+# Упражнение 2.2 - Solution
 
 There is no official solution for this exercise--you need rely on your
 current Python knowledge.  However, there are a few tips that can

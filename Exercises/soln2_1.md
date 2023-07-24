@@ -1,4 +1,4 @@
-# Exercise 2.1 - Solution
+# Упражнение 2.1 - Solution
 
 ```python
 # readrides.py

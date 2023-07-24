@@ -1,4 +1,4 @@
-# Exercise 8.2 - Solution
+# Упражнение 8.2 - Solution
 
 ```python
 # ticker.py

@@ -1,4 +1,4 @@
-# Exercise 2.3 - Solution
+# Упражнение 2.3 - Solution
 
 Work through the exercise. Code is given in the description.
 

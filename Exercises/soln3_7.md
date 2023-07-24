@@ -1,5 +1,5 @@
 
-# Exercise 3.7 - Solution
+# Упражнение 3.7 - Solution
 
 ## (a) Interfaces
 

@@ -1,4 +1,4 @@
-# Exercise 6.5 - Solution
+# Упражнение 6.5 - Solution
 
 ```python
 # validate.py

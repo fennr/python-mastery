@@ -1,4 +1,4 @@
-# Exercise 4.3 - Solution
+# Упражнение 4.3 - Solution
 
 ```python
 class Validator:

@@ -1,4 +1,4 @@
-# Exercise 7.4 - Solution
+# Упражнение 7.4 - Solution
 
 All of the solution code is given in the exercise description.
 
